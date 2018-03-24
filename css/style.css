@@ -33,3 +33,27 @@
     margin-bottom:5px;
     text-align: center;
 }
+
+.social-links {
+    text-align: center;
+}
+
+.fa-github {
+    color: #333;
+}
+
+.fa-pencil {
+    color: #333;
+}
+
+.fa-facebook-square {
+    color: #333;
+}
+
+.fa-twitter {
+    color: #333;
+}
+
+.fa-linkedin-square {
+    color: #333;
+}
