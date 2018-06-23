@@ -18,6 +18,10 @@ body {
     text-align: center;
 }
 
+.fa-globe {
+    color: #333;
+}
+
 .fa-github {
     color: #333;
 }
@@ -31,10 +35,6 @@ body {
 }
 
 .fa-twitter {
-    color: #333;
-}
-
-.fa-skype {
     color: #333;
 }
 
